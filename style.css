@@ -1,0 +1,47 @@
+body{
+    /* se cambia el color del fondo y la letra*/
+    background-color: #9F77B8;
+    color: #FEEEF5;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+p{
+    color: #F9C1DC;
+}
+
+.titulo{
+    color: #A53960;
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-size: 70px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.caricaturaaxo{
+   align-items: center;
+   width: 20%;
+   margin-left: 40%;
+
+
+
+}
+
+.axocaricatura{
+    width: 10%;
+    display: flex;
+    margin-left: 40%;
+    margin-bottom: 0%;
+}
+
+a{
+    color: #EBCCF8;
+    text-decoration:underline;
+    font-family: monospace;
+    font-size:x-large
+
+}
